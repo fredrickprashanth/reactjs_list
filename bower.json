@@ -1,0 +1,32 @@
+{
+  "name": "reactjs_list.git",
+  "version": "0.0.1",
+  "homepage": "https://github.com/fredrickprashanth/reactjs_list",
+  "authors": [
+    "Fredrick John Berchmans <fredrickprashanth@gmail.com>"
+  ],
+  "description": "sqlite3 list with reactjs",
+  "main": "app.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "reactjs",
+    "node",
+    "express"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "react": "~0.12.2",
+    "uikit": "~2.17.0"
+  }
+}
